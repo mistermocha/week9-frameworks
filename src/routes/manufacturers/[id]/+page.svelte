@@ -1,0 +1,1 @@
+<h2>TODO: This should display the content of a specific manufacturer</h2>
